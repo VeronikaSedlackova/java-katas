@@ -30,7 +30,7 @@ public class PositionAverage {
                 }
             }
         }
-        
+
         return counterSum;
     }
 
