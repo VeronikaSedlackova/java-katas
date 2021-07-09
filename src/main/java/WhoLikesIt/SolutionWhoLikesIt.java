@@ -18,7 +18,7 @@ public class SolutionWhoLikesIt {
         else
             return names[0] + ", " + names[1] + " and " + (names.length - 2) + " others like this";
 
-        
+
 //        switch (names.length) {
 //            case 0: return "no one likes this";
 //            case 1: return String.format("%s likes this", names[0]);
